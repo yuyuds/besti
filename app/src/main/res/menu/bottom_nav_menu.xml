@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/fragmentHome"
+        android:title="Home"
+        android:icon="@drawable/home"/>
+
+    <item android:id="@+id/fragmentDiscovery"
+        android:title="Discovery"
+        android:icon="@drawable/discovery"/>
+
+    <item android:id="@+id/fragmentKeranjang"
+        android:title="Keranjang"
+        android:icon="@drawable/buy"/>
+
+    <item android:id="@+id/FragmentProfile"
+        android:title="Profile"
+        android:icon="@drawable/ic_person"/>
+</menu>
